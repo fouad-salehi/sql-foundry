@@ -1,4 +1,4 @@
-# SQLFoundry
+# sql-foundry
 
 ![SQLFoundry](https://img.shields.io/badge/project-SQLFoundry-important)
 ![Database](https://img.shields.io/badge/database-MySQL%208.0%2B-blue)
