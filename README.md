@@ -1,11 +1,11 @@
 # sql-foundry
 
-![SQLFoundry](https://img.shields.io/badge/project-SQLFoundry-important)
-![Database](https://img.shields.io/badge/database-MySQL%208.0%2B-blue)
-![Language](https://img.shields.io/badge/language-SQL-orange)
-![Type](https://img.shields.io/badge/type-relational%20database-green)
-![Projects](https://img.shields.io/badge/projects-12-success)
-![License](https://img.shields.io/badge/license-MIT-green)
+![SQLFoundry](https://img.shields.io/badge/project-SQLFoundry-important?style=for-the-badge)
+![Database](https://img.shields.io/badge/database-MySQL%208.0%2B-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Language](https://img.shields.io/badge/language-SQL-F97316?style=for-the-badge)
+![Type](https://img.shields.io/badge/type-relational%20database-22C55E?style=for-the-badge)
+![Projects](https://img.shields.io/badge/projects-12-22C55E?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-22C55E?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
 <img width="1376" height="688" alt="SQLFoundry — A collection of standalone relational database systems built with MySQL" src="https://github.com/user-attachments/assets/87c1dae5-ddc8-4669-89e0-40b00b3c8b2c" />
 
